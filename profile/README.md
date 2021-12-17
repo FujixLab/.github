@@ -1,12 +1,10 @@
-## Hi there 👋
+# FujixLab
 
-<!--
+## Welcome to FujixLab !
 
-**Here are some ideas to get you started:**
+### For visitor
+We're so sorry...
+Basically, the repository is not open to the public...🙇‍♀️🙇‍♀️🙇‍♀️
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+### For member
+***If you make your repository public, Ask your teacher if it's okay to make public.***🤐🤐🤐🤐🤐
